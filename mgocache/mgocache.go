@@ -1,9 +1,9 @@
 package mgocache
 
 import (
-	"cache"
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
+	"github.com/zc310/cache"
 	"time"
 )
 

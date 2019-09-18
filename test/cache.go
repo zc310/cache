@@ -1,8 +1,8 @@
 package test
 
 import (
-	"cache"
 	"github.com/stretchr/testify/assert"
+	"github.com/zc310/cache"
 	"testing"
 	"time"
 )

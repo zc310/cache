@@ -1,13 +1,11 @@
 package distkvcache
 
 import (
-	"cache"
 	"crypto/md5"
 	"encoding/hex"
 	"github.com/peterbourgon/diskv"
-
+	"github.com/zc310/cache"
 	"github.com/zc310/utils"
-
 	"time"
 )
 

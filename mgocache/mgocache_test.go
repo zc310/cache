@@ -1,8 +1,8 @@
 package mgocache
 
 import (
-	"cache/test"
 	"github.com/globalsign/mgo"
+	"github.com/zc310/cache/test"
 	"testing"
 )
 

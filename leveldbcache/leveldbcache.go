@@ -1,8 +1,8 @@
 package leveldbcache
 
 import (
-	"cache"
 	"github.com/syndtr/goleveldb/leveldb"
+	"github.com/zc310/cache"
 	"time"
 )
 

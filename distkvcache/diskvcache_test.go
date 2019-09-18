@@ -1,8 +1,8 @@
 package distkvcache
 
 import (
-	"cache/test"
 	"github.com/stretchr/testify/assert"
+	"github.com/zc310/cache/test"
 	"os"
 	"path/filepath"
 	"testing"
